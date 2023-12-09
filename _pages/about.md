@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Ohio State University with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's GEAR research projects, where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, I conducted research at the Computer Vision Laboratory of Xi'an Jiaotong-Liverpool University, further refining my expertise in the field.
+I am a third-year undergraduate student at Ohio State University with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's GEARS research projects, where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, I conducted research at the Computer Vision Laboratory of Xi'an Jiaotong-Liverpool University, further refining my expertise in the field.
 
 In pursuit of academic excellence, I have served as a research assistant at OSU NLP Group and ICICLE Institute under the mentorship of Professor Yu Su. This valuable experience has significantly contributed to my understanding of natural language processing and computational linguistics.
 
