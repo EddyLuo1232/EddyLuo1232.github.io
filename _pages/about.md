@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third-year undergraduate student at Ohio State University with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's GEAR research projects, where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, I conducted research at the Computer Vision Laboratory of Xi'an Jiaotong-Liverpool University, further refining my expertise in the field.
+
+In pursuit of academic excellence, I have served as a research assistant at OSU NLP Group and ICICLE Institute under the mentorship of Professor Yu Su. This valuable experience has significantly contributed to my understanding of natural language processing and computational linguistics.
+
+As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2025. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
 
 A data-driven personal website
 ======
