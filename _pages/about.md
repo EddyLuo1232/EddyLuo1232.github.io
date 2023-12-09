@@ -16,5 +16,5 @@ As I prepare to advance my academic career, I am gearing up to apply for a Ph.D.
 
 You can find my CV here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](luo.1455@osu.edu) / [Github](https://github.com/EddyLuo1232)
+[Email](mailto:luo.1455@osu.edu) / [Github](https://github.com/EddyLuo1232)
 
