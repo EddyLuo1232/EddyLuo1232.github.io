@@ -12,7 +12,7 @@ I am a third-year undergraduate student at Ohio State University with a strong r
 
 In pursuit of academic excellence, I have served as a research assistant at OSU NLP Group and ICICLE Institute under the mentorship of Professor Yu Su. This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities.
 
-As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2025. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
+As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2024. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
 
 You can find my CV here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
