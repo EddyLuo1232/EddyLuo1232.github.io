@@ -16,5 +16,9 @@ As I prepare to advance my academic career, I am gearing up to apply for a Ph.D.
 
 You can find my CV here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+Publication:
+Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, “Bringing Back the Context: Image Classification as Link Prediction on Multimodal Knowledge Graphs”
+
+
 [Email](mailto:luo.1455@osu.edu) / [Github](https://github.com/EddyLuo1232)
 
