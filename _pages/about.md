@@ -18,6 +18,7 @@ You can find my CV here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pd
 
 Publication:
 
+
 Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, “Bringing Back the Context: Image Classification as Link Prediction on Multimodal Knowledge Graphs”
 
 
