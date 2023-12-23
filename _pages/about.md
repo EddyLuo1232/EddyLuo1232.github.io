@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Ohio State University with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's [GEARS research](https://gti.ncsu.edu/gears/), where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, Before transferring to OSU, I had research experience at the Computer Vision Laboratory of Xi'an Jiaotong-Liverpool University, further refining my expertise in the field.
+I am a third-year undergraduate student at [Ohio State University](https://www.osu.edu/) with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's [GEARS research](https://gti.ncsu.edu/gears/), where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, Before transferring to OSU, I had research experience at the Computer Vision Laboratory of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh), further refining my expertise in the field.
 
-I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab.
+I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [Wisconsin-madison](https://www.wisc.edu/)
 
 In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multi-modalities.
 
