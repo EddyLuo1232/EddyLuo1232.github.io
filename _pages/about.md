@@ -21,7 +21,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:luo.1455@osu.edu) / [Github](https://github.com/EddyLuo1232)
 
-# Publication:
+# Preprints:
 
 
 Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, **Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**, In arxiv [[paper]](https://arxiv.org/pdf/2401.00608.pdf).
