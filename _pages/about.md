@@ -28,7 +28,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 
 **Weidi Luo\***, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**,[[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[Code]](https://github.com/xiaoyuguo6/JailBreakV-28K_dataset)[[Hugging Face]](https://huggingface.co/datasets/EddyLuo/JailBreakV_28K).
 
-## [^note]: \* means equal contribution
+### \* means equal contribution
 
 
 
