@@ -23,10 +23,12 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 # Preprints:
 
-
-Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, **Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**, In arxiv [[Paper]](https://arxiv.org/pdf/2401.00608.pdf) [[Project Page]](https://osu-nlp-group.github.io/COSMO/) [[Code]](https://github.com/OSU-NLP-Group/COSMO).
-
 **Weidi Luo\*[^1]**, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**,[[Paper]](https://arxiv.org/pdf/2404.03027.pdf) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[Code]](https://github.com/xiaoyuguo6/JailBreakV-28K_dataset) [[Hugging Face]](https://huggingface.co/datasets/EddyLuo/JailBreakV_28K).
+
+# Publications:
+
+One paper is shared at CVPR 2024 CV4Animals
+Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, **Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**, In arxiv [[Paper]](https://arxiv.org/pdf/2401.00608.pdf) [[Project Page]](https://osu-nlp-group.github.io/COSMO/) [[Code]](https://github.com/OSU-NLP-Group/COSMO).
 
 [^1]: \* means equal contribution.
 
