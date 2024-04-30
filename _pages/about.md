@@ -28,6 +28,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 # Publications:
 
 One paper is shared at CVPR 2024 CV4Animals
+
 Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, **Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**, In arxiv [[Paper]](https://arxiv.org/pdf/2401.00608.pdf) [[Project Page]](https://osu-nlp-group.github.io/COSMO/) [[Code]](https://github.com/OSU-NLP-Group/COSMO).
 
 [^1]: \* means equal contribution.
