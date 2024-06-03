@@ -23,7 +23,11 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 # Preprints:
 
-**Weidi Luo\*[^1]**, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**,[[Paper]](https://arxiv.org/pdf/2404.03027.pdf) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[Code]](https://github.com/xiaoyuguo6/JailBreakV-28K_dataset) [[Hugging Face]](https://huggingface.co/datasets/EddyLuo/JailBreakV_28K).
+**Weidi Luo\*[^1]**, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**, [[Paper]](https://arxiv.org/pdf/2404.03027.pdf) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[Code]](https://github.com/xiaoyuguo6/JailBreakV-28K_dataset) [[Hugging Face]](https://huggingface.co/datasets/EddyLuo/JailBreakV_28K).
+
+Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, **Visual-RolePlay: Universal Jailbreak Attack on
+MultiModal Large Language Models via Role-playing Image Character**, [[paper]](https://arxiv.org/abs/2405.20773)
+
 
 # Publications:
 
