@@ -43,7 +43,8 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <span class='anchor' id='-lwzl'></span>
 
 
-# 📝 Publication
+# 📝 Pre-print
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +54,8 @@ MultiModal Large Language Models via Role-playing Image Character**, [[paper]](h
 
 </div>
 </div>
+
+# 📸 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +79,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Award</div><img src='images/award.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo**, Bin Hu, **Classification models for HEp-2 cell dataset**, [Report](../assets/hep2.pdf).
+**Weidi Luo**, Bin Hu, **Classification models for HEp-2 cell dataset**, [[Report]](../assets/hep2.pdf).
 
 </div>
 </div>
