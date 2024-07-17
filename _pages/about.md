@@ -17,40 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+I am a third-year undergraduate student at [Ohio State University](https://www.osu.edu/) with a strong research focus in Computer Vision, Vision-language Models, and Multimodalities. My academic journey includes active participation in North Carolina State University's [GEARS research](https://gti.ncsu.edu/gears/), where I delved into data mining and applied machine learning and deep learning algorithms. Additionally, Before transferring to OSU, I had research experience at the Computer Vision Laboratory of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh), further refining my expertise in the field.
+
+I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/).
+
+In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multi-modalities.
+
+As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2025. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
+# 📰 News
+- *2024.07.16*🎉, Our paper *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs* has been accepted by **CIKM'2024**
+- *2024.07.09*🎉, Our paper *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* has been accepted by **COLM'2024**
+
+
+# 🎓 Education
+- *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean List of Art and Science College in 22 Fall and 24 SP)**
+- *2020.09 - 2022.04*, B.SC. in Information and Computing Science, School of Advanced Technology, Xi’an Jiaotong Liverpool University **(First Class)** 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
 
-### 英文
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+# 📝 Publication
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, **Visual-RolePlay: Universal Jailbreak Attack on
+MultiModal Large Language Models via Role-playing Image Character**, [[paper]](https://arxiv.org/abs/2405.20773) [[code]](https://github.com/SiyuanMaCS/VisualRoleplay).
+
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
