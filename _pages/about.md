@@ -24,7 +24,6 @@ I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.g
 In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multi-modalities.
 
 As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2025. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
- <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Cite"></a>
 
 My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
   
