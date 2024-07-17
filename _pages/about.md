@@ -60,7 +60,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo\***, **Siyuan Ma\***, **Xiaogeng Liu\***, Xiaoyu Guo, Chaowei Xiao, *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks*, [[paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[code]](https://github.com/EddyLuo1232/JailBreakV_28K).
+**Weidi Luo\***, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks*, [[paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[code]](https://github.com/EddyLuo1232/JailBreakV_28K).
 
 </div>
 </div>
