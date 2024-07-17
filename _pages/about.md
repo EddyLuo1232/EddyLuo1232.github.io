@@ -55,8 +55,6 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 </div>
 
-[^1]: \* means equal contribution.
-
 # 📸 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
@@ -76,7 +74,18 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 </div>
 </div>
 
+# 🖼 Poster
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poster</div><img src='images/gear.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Games*, [[Paper]](https://arxiv.org/pdf/2401.00608.pdf).
+
+</div>
+</div>
+
 <span class='anchor' id='-ryjx'></span>
+
 
 # 🏅 Award
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Award</div><img src='images/award.png' alt="icon" width="100%"></div></div>
