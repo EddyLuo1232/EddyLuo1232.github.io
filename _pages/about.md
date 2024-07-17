@@ -48,8 +48,8 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, **Visual-RolePlay: Universal Jailbreak Attack on
-MultiModal Large Language Models via Role-playing Image Character**, [[paper]](https://arxiv.org/abs/2405.20773) [[code]](https://github.com/SiyuanMaCS/VisualRoleplay).
+Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, *Visual-RolePlay: Universal Jailbreak Attack on
+MultiModal Large Language Models via Role-playing Image Character*, [[paper]](https://arxiv.org/abs/2405.20773) [[code]](https://github.com/SiyuanMaCS/VisualRoleplay).
 
 
 </div>
@@ -60,7 +60,7 @@ MultiModal Large Language Models via Role-playing Image Character**, [[paper]](h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo\***, **Siyuan Ma\***, **Xiaogeng Liu\***, Xiaoyu Guo, Chaowei Xiao, **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**, [[paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[code]](https://github.com/EddyLuo1232/JailBreakV_28K).
+**Weidi Luo\***, **Siyuan Ma\***, **Xiaogeng Liu\***, Xiaoyu Guo, Chaowei Xiao, *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks*, [[paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[code]](https://github.com/EddyLuo1232/JailBreakV_28K).
 
 </div>
 </div>
@@ -68,7 +68,7 @@ MultiModal Large Language Models via Role-playing Image Character**, [[paper]](h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2024</div><img src='images/cosmo.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, **Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**, [[Paper]](https://arxiv.org/pdf/2401.00608.pdf) [[Project Page]](https://osu-nlp-group.github.io/COSMO/) [[Code]](https://github.com/OSU-NLP-Group/COSMO).
+Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-Wolf, Charles Stewart, Song Gao, Wei-Lun Chao, Yu Su, *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs*, [[Paper]](https://arxiv.org/pdf/2401.00608.pdf) [[Project Page]](https://osu-nlp-group.github.io/COSMO/) [[Code]](https://github.com/OSU-NLP-Group/COSMO).
 
 </div>
 </div>
@@ -79,7 +79,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Award</div><img src='images/award.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo**, Bin Hu, **Classification models for HEp-2 cell dataset**, [[Report]](../assets/hep2.pdf).
+**Weidi Luo**, Bin Hu, *Classification models for HEp-2 cell dataset*, [[Report]](../assets/hep2.pdf).
 
 </div>
 </div>
