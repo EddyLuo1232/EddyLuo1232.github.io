@@ -26,7 +26,7 @@ In pursuit of academic excellence, I have served as a research assistant at [OSU
 As I prepare to advance my academic career, I am gearing up to apply for a Ph.D. program in the fall of 2025. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-
+My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
   
 
 
@@ -73,7 +73,13 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Award
-- *2022.03*, The first price in the 2022 Data Science Competition of Xi'an Jiaotong Liverpool University [[Certificate]](../assets/award.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Award</div><img src='images/award.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Weidi Luo**, Bin Hu, **Classification models for HEp-2 cell dataset**, [Report](../assets/hep2.pdf).
+
+</div>
+</div>
 
 <span class='anchor' id='-xshy'></span>
 
