@@ -55,6 +55,8 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 </div>
 
+[^1]: \* means equal contribution.
+
 # 📸 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
@@ -64,6 +66,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2024</div><img src='images/cosmo.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,4 +99,3 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United State
 - *2021.12 - 2022.05*, Computer Vision Lab at Xi'an Jiaotong Liverpool University , Suzhou, Jiangsu, China
 
-[^1]: \* means equal contribution.
