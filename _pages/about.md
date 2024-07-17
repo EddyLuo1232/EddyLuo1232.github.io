@@ -95,3 +95,5 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 - *2023.12 - now*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United State
 - *2021.12 - 2022.05*, Computer Vision Lab at Xi'an Jiaotong Liverpool University , Suzhou, Jiangsu, China
+
+[^1]: \* means equal contribution.
