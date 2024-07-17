@@ -74,7 +74,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Award
-- *2022.03*, The first price in the 2022 Data Science Competition of Xi'an Jiaotong Liverpool University [[Certificate]](../assets/award.jpg)
+- *2022.03*, The first price in the 2022 Data Science Competition of Xi'an Jiaotong Liverpool University
 
 
 <span class='anchor' id='-xshy'></span>
