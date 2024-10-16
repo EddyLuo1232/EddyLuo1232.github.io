@@ -54,7 +54,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Weidi Luo**, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models*.
@@ -63,7 +63,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, Jiashuo Sun, Yiming Liang, Tian Xia, Yu Wang, **Weidi Luo**, Chaowei Xiao, *Prompt Injection Benchmark for Foundation Model Integrated Systems*.
