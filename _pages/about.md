@@ -58,7 +58,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 <div class='paper-box-text' markdown="1">
 
 **Weidi Luo**, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models*.
-[[paper]](https://arxiv.org/abs/2410.17922) [[code](https://github.com/IDEA-XL/G4D).
+[[paper]](https://arxiv.org/abs/2410.17922) [[code]](https://github.com/IDEA-XL/G4D).
 
 </div>
 </div>
