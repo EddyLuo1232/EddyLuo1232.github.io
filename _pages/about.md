@@ -32,6 +32,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <span class='anchor' id='-xl'></span>
 
 # 📰 News
+- *2025.01.22*🎉, Our paper *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models* has been accepted by **NAACL'2025 Findings**
 - *2024.07.16*🎉, Our paper *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs* has been accepted by **CIKM'2024**
 - *2024.07.09*🎉, Our paper *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* has been accepted by **COLM'2024**
 
