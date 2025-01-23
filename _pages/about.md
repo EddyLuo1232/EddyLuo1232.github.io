@@ -63,14 +63,6 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Weidi Luo\***, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models*,
-[[paper]](https://arxiv.org/abs/2410.17922) [[code]](https://github.com/IDEA-XL/G4D).
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,6 +74,14 @@ Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, Jiashuo Sun, Yi
 </div>
 
 # 📸 Publication
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'2025</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Weidi Luo\***, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models*,
+[[paper]](https://arxiv.org/abs/2410.17922) [[code]](https://github.com/IDEA-XL/G4D).
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
