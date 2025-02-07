@@ -32,7 +32,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <span class='anchor' id='-xl'></span>
 
 # 📰 News
-- *2025.01.22*🎉, Our paper *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models* has been accepted by **NAACL'2025** (Findings)
+- *2025.01.22*🎉, Our paper *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models* has been accepted by **NAACL'2025** (Findings)
 - *2024.07.16*🎉, Our paper *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs* has been accepted by **CIKM'2024** (Oral)
 - *2024.07.09*🎉, Our paper *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* has been accepted by **COLM'2024** (Poster)
 
@@ -77,7 +77,7 @@ Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, Jiashuo Sun, Yi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'2025</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo\***, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models*,
+**Weidi Luo\***, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models*,
 [[paper]](https://arxiv.org/abs/2410.17922) [[code]](https://github.com/IDEA-XL/G4D).
 
 </div>
