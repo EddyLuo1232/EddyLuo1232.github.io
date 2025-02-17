@@ -70,15 +70,6 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, Jiashuo Sun, Yiming Liang, Tian Xia, Yu Wang, **Weidi Luo**, Chaowei Xiao, *Prompt Injection Benchmark for Foundation Model Integrated Systems*.
-
-
-</div>
-</div>
-
 # 📸 Publication
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'2025</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
