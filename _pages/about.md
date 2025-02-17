@@ -45,7 +45,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[paper]](https://arxiv.org/abs/2411.13504) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[code]](https://github.com/EddyLuo1232/AGrail4Agent)
+**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao, *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[paper]](https://arxiv.org/abs/2411.13504) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[code]](https://github.com/EddyLuo1232/AGrail4Agent)
 
 
 </div>
@@ -53,7 +53,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang *Disentangling Memory and Reasoning Ability in Large Language Models*, [[paper]](https://arxiv.org/abs/2411.13504) [[code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[paper]](https://arxiv.org/abs/2411.13504) [[code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
 </div>
