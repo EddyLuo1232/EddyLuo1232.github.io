@@ -42,6 +42,14 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
 
 # 📝 Pre-print
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[paper]](https://arxiv.org/abs/2411.13504) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[code]](https://github.com/EddyLuo1232/AGrail4Agent)
+
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
