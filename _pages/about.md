@@ -45,7 +45,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao, *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[paper]](https://arxiv.org/abs/2411.13504) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[code]](https://github.com/EddyLuo1232/AGrail4Agent)
+**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao, *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[Paper]](https://arxiv.org/abs/2502.11448) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[Code]](https://github.com/EddyLuo1232/AGrail4Agent)
 
 
 </div>
@@ -53,7 +53,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[paper]](https://arxiv.org/abs/2411.13504) [[code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
 </div>
@@ -63,7 +63,7 @@ Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, W
 <div class='paper-box-text' markdown="1">
 
 Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, *Visual-RolePlay: Universal Jailbreak Attack on
-MultiModal Large Language Models via Role-playing Image Character*, [[paper]](https://arxiv.org/abs/2405.20773) [[code]](https://github.com/SiyuanMaCS/VisualRoleplay).
+MultiModal Large Language Models via Role-playing Image Character*, [[Paper]](https://arxiv.org/abs/2405.20773) [[Code]](https://github.com/SiyuanMaCS/VisualRoleplay).
 
 
 </div>
@@ -75,7 +75,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 <div class='paper-box-text' markdown="1">
 
 **Weidi Luo\***, He Cao\*, Yu Wang, Zijing Liu, Aidan Wong, Bin Feng, Yuan Yao, Yu Li, *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models*,
-[[paper]](https://arxiv.org/abs/2410.17922) [[code]](https://github.com/IDEA-XL/G4D).
+[[Paper]](https://arxiv.org/abs/2410.17922) [[Code]](https://github.com/IDEA-XL/G4D).
 
 </div>
 </div>
@@ -83,7 +83,7 @@ MultiModal Large Language Models via Role-playing Image Character*, [[paper]](ht
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'2024</div><img src='images/jbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Weidi Luo\***, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks*, [[paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[code]](https://github.com/EddyLuo1232/JailBreakV_28K).
+**Weidi Luo\***, Siyuan Ma\*, Xiaogeng Liu\*, Xiaoyu Guo, Chaowei Xiao, *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks*, [[Paper]](https://arxiv.org/abs/2404.03027) [[Project Page]](https://eddyluo1232.github.io/JailBreakV28K/) [[Code]](https://github.com/EddyLuo1232/JailBreakV_28K).
 
 </div>
 </div>
