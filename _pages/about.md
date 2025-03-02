@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at [Ohio State University](https://www.osu.edu/) with a strong research **focus on the safety and trustworthiness of AI including large language models and multi-modality ones**.
+I am a third-year undergraduate student at [Ohio State University](https://www.osu.edu/) with a strong research **focus on the safety and trustworthiness of AI and AI applications in security**.
 
 I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multi-modalities. 
 
