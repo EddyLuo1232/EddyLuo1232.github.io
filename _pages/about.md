@@ -122,7 +122,11 @@ Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Ga
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Conference
-- *2024.10*, CONFERENCE ON LANGUAGE MODELING(COLM)'2024, Philadelphia, PA, United State
+- *2024.10*, COLM'2024, Philadelphia, PA, United State
+- *2025.04*, NAACL'2025, Albuquerque, New Mexico, United State
+
+# 🔍 Reviewer
+- *2025.2*, ACL'2025
 
 <span class='anchor' id='-gzsx'></span>
 
