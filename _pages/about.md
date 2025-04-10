@@ -35,8 +35,8 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
 
 # 🎓 Education
-- *2025.08 -*, P.hD. in Computer Science, School of Computing, University of Georgia
-- *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean List of Art and Science College in 22 Fall and 24 SP)**
+- *2025.08 - Present*, P.hD. in Computer Science, School of Computing, University of Georgia
+- *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean's List of Art and Science College in 22 Fall and 24 SP)**
 - *2020.09 - 2022.04*, B.SC. in Information and Computing Science, School of Advanced Technology, Xi’an Jiaotong Liverpool University **(First Class)** 
 <span class='anchor' id='-lwzl'></span>
 
@@ -131,7 +131,7 @@ Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Ga
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
-- *2023.12 - now*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
+- *2023.12 - Present*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United States
 - *2021.12 - 2022.05*, Computer Vision Lab at Xi'an Jiaotong Liverpool University , Suzhou, Jiangsu, China
 
