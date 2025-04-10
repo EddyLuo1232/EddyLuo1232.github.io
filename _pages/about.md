@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focuses on the safety and trustworthiness of AI and AI applications in security**.
+I am a first-year PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focuses on the safety and trustworthiness of AI and AI applications in security**.
 
-I currently have a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
-
-As I prepare to advance my academic career, **I am seeking a Ph.D. opportunity in the fall of 2025**. My multifaceted research background and hands-on experience in various research environments have equipped me with a robust skill set and a deep passion for advancing the frontiers of knowledge in the realm of computer science and artificial intelligence. I am enthusiastic about the prospect of contributing to cutting-edge research in my future academic endeavors.
+Before my PhD journey, I had a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
 
 My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
   
@@ -124,7 +122,7 @@ Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Ga
 
 # 🏛️ Conference
 - *2024.10*, COLM'2024, Philadelphia, PA, United State
-- *2025.04*, NAACL'2025, Albuquerque, New Mexico, United State
+- *2025.04*, NAACL'2025, Albuquerque, New Mexico, United States
 
 # 🔍 Reviewer
 - *2025.2*, ACL'2025
@@ -133,6 +131,6 @@ Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Ga
 
 # 💻 Internship
 - *2023.12 - now*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
-- *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United State
+- *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United States
 - *2021.12 - 2022.05*, Computer Vision Lab at Xi'an Jiaotong Liverpool University , Suzhou, Jiangsu, China
 
