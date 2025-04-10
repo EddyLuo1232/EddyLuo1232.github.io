@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focuses on the safety and trustworthiness of AI and AI applications in security**.
+I am a first-year PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focusing on the safety and trustworthiness of AI and AI applications in security**.
 
 Before my PhD journey, I had a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
 
@@ -35,6 +35,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
 
 # 🎓 Education
+- *2025.08 -*, P.hD. in Computer Science, School of Computing, University of Georgia
 - *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean List of Art and Science College in 22 Fall and 24 SP)**
 - *2020.09 - 2022.04*, B.SC. in Information and Computing Science, School of Advanced Technology, Xi’an Jiaotong Liverpool University **(First Class)** 
 <span class='anchor' id='-lwzl'></span>
