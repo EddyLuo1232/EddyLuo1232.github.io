@@ -23,7 +23,7 @@ I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) ad
 * **AI in Security**: Leverage AI to drive defense and attack strategies on system including web system and operating system.
 * **Lifelong AI Algorithms**: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.
 
-Before my PhD journey, I had a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
+Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
 
 I welcome collaboration opportunities. Please feel free to contact me at *luo.1455@osu.edu* or *wl64843@uga.edu*.
 
