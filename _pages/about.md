@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focusing on the safety and trustworthiness of AI and AI applications in security**.
+I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/) **focusing on the safety and trustworthiness of AI and AI applications in security**.
 
 Before my PhD journey, I had a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
 
