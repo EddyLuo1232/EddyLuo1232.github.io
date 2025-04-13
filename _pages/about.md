@@ -25,11 +25,9 @@ I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) ad
 
 Before my PhD journey, I had a research internship at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities. 
 
-My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
-
 I welcome collaboration opportunities. Please feel free to contact me at *luo.1455@osu.edu* or *wl64843@uga.edu*.
 
-  
+My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
 
 <span class='anchor' id='-xl'></span>
