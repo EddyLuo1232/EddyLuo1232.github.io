@@ -112,6 +112,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
-- *2023.12 - Present*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
+- *2023.12 - Present*,  SaFoLab, Madison, Wisconsin, United States
+- *2024.07 - 2024.10*,  International Digital Economy Academy(IDEA), Shenzhen, Guangdong, China
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United States
 
