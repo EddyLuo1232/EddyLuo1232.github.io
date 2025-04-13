@@ -37,7 +37,6 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 # 🎓 Education
 - *2025.08 - Present*, P.hD. in Computer Science, School of Computing, University of Georgia
 - *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean's List of Art and Science College in 22 Fall and 24 SP)**
-- *2020.09 - 2022.04*, B.SC. in Information and Computing Science, School of Advanced Technology, Xi’an Jiaotong Liverpool University **(First Class)** 
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -97,41 +96,17 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 </div>
 </div>
 
-# 🖼 Poster
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GEARS'2022</div><img src='images/gear2.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Danying Xu; **Weidi Luo**; Yuxin Sun, *Analysis and Prediction Models For NBA Games*, [[report]](../assets/gear2.pdf).
-
-</div>
-</div>
-
-<span class='anchor' id='-ryjx'></span>
-
-
-# 🏅 Award
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Award</div><img src='images/award.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Weidi Luo**, Bin Hu, *Classification models for HEp-2 cell dataset*
-
-</div>
-</div>
-
-<span class='anchor' id='-xshy'></span>
 
 # 🏛️ Conference
 - *2024.10*, COLM'2024, Philadelphia, PA, United State
 - *2025.04*, NAACL'2025, Albuquerque, New Mexico, United States
 
 # 🔍 Reviewer
-- *2025.2*, ACL'2025
+- *2025.02*, ACL'2025
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
 - *2023.12 - Present*,  Chaowei Xiao's Lab, Madison, Wisconsin, United States
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United States
-- *2021.12 - 2022.05*, Computer Vision Lab at Xi'an Jiaotong Liverpool University , Suzhou, Jiangsu, China
 
