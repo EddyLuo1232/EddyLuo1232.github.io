@@ -33,7 +33,7 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <span class='anchor' id='-xl'></span>
 
 # 📰 News
-- *2025.04.15*🎉, Our work *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* wins **$20,000** SafeBench Prize for Advancing LLM Security Benchmarking from Center for AI Safety.
+- *2025.04.15*🎉, Our work *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* wins **$20,000** SafeBench Prize for Advancing Multi-modal Large Language Model Security Benchmarking from Center for AI Safety.
 - *2025.04.09*🎉, I will join the University of Georgia as a **PhD student** in August 2025.
 - *2025.01.22*🎉, Our paper *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models* has been accepted by **NAACL'2025** (Findings). I served as the **first author**. Thanks to my collaborators.
 - *2024.07.16*🎉, Our paper *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs* has been accepted by **CIKM'2024** (Oral). Thanks to my collaborators.
