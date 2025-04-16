@@ -106,7 +106,8 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 # 🏛️ Conference
 - *2024.10*, COLM'2024, Philadelphia, PA, United State
 - *2025.04*, NAACL'2025, Albuquerque, New Mexico, United States
-
+# 🎖 Award
+- *2025.04*, SafeBench Award from Center for AI Safety
 # 🔍 Reviewer
 - *2025.02*, ACL'2025
 
