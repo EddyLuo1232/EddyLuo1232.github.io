@@ -55,10 +55,10 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/doxing_via_the_lens.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Weidi Luo*, Qiming Zhang*, Tianyu Lu*, Xiaogeng Liu, Yue Zhao, Zhen Xiang, Chaowei Xiao, *Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model*, [[Paper](https://arxiv.org/pdf/2504.19373))
+Weidi Luo*, Qiming Zhang*, Tianyu Lu*, Xiaogeng Liu, Yue Zhao, Zhen Xiang, Chaowei Xiao, *Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model*, [[Paper](https://arxiv.org/pdf/2504.19373)]
 
 
 </div>
