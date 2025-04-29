@@ -58,6 +58,14 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Weidi Luo*, Qiming Zhang*, Tianyu Lu*, Xiaogeng Liu, Yue Zhao, Zhen Xiang, Chaowei Xiao, *Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model*, [[Paper](https://arxiv.org/pdf/2504.19373))
+
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
