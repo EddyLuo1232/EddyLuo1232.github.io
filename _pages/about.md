@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="display: flex; align-items: center; background: #f0f9f5; border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; padding: 1em; border-radius: 6px;">
+<div style="display: flex; align-items: center; justify-content: center; background: #f0f9f5; border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; padding: 1em; border-radius: 6px;">
 
-  <div style="flex: 1;">
+  <img src="images/ttr.png" alt="Left Image" style="height: 125px; margin-right: 20px;" />
+
+  <div style="text-align: center; flex: 1;">
     <strong>“It’s not that life has dreams, but that dreams create life.”</strong><br>
     「人生に夢があるのではなく、夢が人生をつくるのです」<br>
     — <em>Taeko Uzuki</em>
   </div>
 
-  <img src="images/ttr.png" alt="Tanjiro" style="height: 125px; margin-left: 20px;"/>
+  <img src="images/ttg.png" alt="Right Image" style="height: 125px; margin-left: 20px;" />
 
 </div>
+
 
 
 
