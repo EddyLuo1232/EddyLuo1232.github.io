@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests:
+I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests<a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>:
 
 * **Trustworthy AI & AI Safety**: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.
 * **AI in Security**: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.
 * **Lifelong AI Algorithms**: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.
 
-Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities<a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>.
+Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities.
 
-I welcome collaboration opportunities. Please feel free to contact me at *luo.1455[Shift+2]osu[dot]edu* or *luo.1455[shift+2]uga[dot]edu*.
+I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**.
 
 My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 
