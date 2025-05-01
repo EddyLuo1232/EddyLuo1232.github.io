@@ -17,17 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="display: flex; align-items: center; background: #f0f9f5; border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; padding: 1em; border-radius: 6px;">
+<div style="display: flex; align-items: center; justify-content: center; background: #f0f9f5; border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; padding: 1.5em; border-radius: 8px;">
 
-  <div style="flex: 1;">
-    <strong>“It’s not that life has dreams, but that dreams create life.”</strong><br>
-    「人生に夢があるのではなく、夢が人生をつくるのです」<br>
+  <!-- 左图（Kirito） -->
+  <img src="PATH_TO_KIRITO_IMAGE.png" alt="Kirito" style="height: 1250px; margin-right: 20px;"/>
+
+  <!-- 居中文本 -->
+  <div style="text-align: center; max-width: 400px;">
+    <strong style="font-size: 1.1em;">“It’s not that life has dreams, but that dreams create life.”</strong><br>
+    <span style="font-size: 1em;">「人生に夢があるのではなく、夢が人生をつくるのです」</span><br>
     — <em>Taeko Uzuki</em>
   </div>
 
   <img src="images/ttg.png" alt="Tanjiro" style="height: 125px; margin-left: 20px;"/>
 
 </div>
+
 
 I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests:
 
