@@ -44,7 +44,8 @@ Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei
 
 My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
-I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**. どうぞよろしくお願いします!
+I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**. 
+どうぞよろしくお願いします| 请多多关照!
 
 
 
