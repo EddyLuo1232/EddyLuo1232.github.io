@@ -25,7 +25,7 @@ redirect_from:
     — <em>Taeko Uzuki</em>
   </div>
 
-  <img src="images/ttg.png" alt="Tanjiro" style="height: 150px; margin-left: 20px;"/>
+  <img src="images/ttg.png" alt="Tanjiro" style="height: 125px; margin-left: 20px;"/>
 
 </div>
 
