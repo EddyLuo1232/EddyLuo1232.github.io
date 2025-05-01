@@ -17,6 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; background: #f0f9f5; padding: 1em; border-radius: 6px;">
+
+<strong>“It’s not that life has dreams, but that dreams create life.”</strong><br>
+「人生に夢があるのではなく、夢が人生をつくるのです」<br>
+— <em>Taeko Uzuki</em>
+
+</div>
+
 I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests:
 
 * **Trustworthy AI & AI Safety**: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.
@@ -29,13 +37,6 @@ My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https:/
 
 I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**.
 
-<div style="border-left: 6px solid #4CAF50; border-right: 6px solid #4CAF50; background: #f0f9f5; padding: 1em; border-radius: 6px;">
-
-<strong>“It’s not that life has dreams, but that dreams create life.”</strong><br>
-「人生に夢があるのではなく、夢が人生をつくるのです」<br>
-— <em>Taeko Uzuki</em>
-
-</div>
 
 
 <span class='anchor' id='-xl'></span>
