@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests<a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>:
+I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), my research interests:
 
 * **Trustworthy AI & AI Safety**: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.
 * **AI in Security**: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.
@@ -27,7 +27,7 @@ Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei
 
 I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**.
 
-My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
+My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>.
 
 
 <span class='anchor' id='-xl'></span>
