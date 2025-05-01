@@ -25,10 +25,6 @@ I am an incoming PhD student at [University of Georgia](https://www.uga.edu/) ad
 
 Before my PhD journey, I had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, I have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to my understanding of natural language processing and multimodalities.
 
-I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**.
-
-My Beliefs:
-
 <div style="border-left: 6px solid #4CAF50; background: #f0f9f5; padding: 1em; border-radius: 6px;">
 
 <strong>“It’s not that life has dreams, but that dreams create life.”</strong><br>
@@ -38,6 +34,8 @@ My Beliefs:
 </div>
 
 My CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
+
+I welcome collaboration opportunities. Please feel free to contact me at **luo.1455[Shift+2]osu[dot]edu** or **luo.1455[shift+2]uga[dot]edu**.
 
 
 <span class='anchor' id='-xl'></span>
