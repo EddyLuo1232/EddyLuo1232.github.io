@@ -34,7 +34,7 @@ redirect_from:
 
 # 🚀 About the Protagonist
 
-**Eddy Luo** (一ノ瀬 エイジ), an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), his research interests:
+**Eddy Luo** (罗威迪 & 一ノ瀬 エイジ), an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), his research interests:
 
 * **Trustworthy AI & AI Safety**: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.
 * **AI in Security**: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.
