@@ -32,7 +32,7 @@ redirect_from:
 </div>
 
 
-# 🚀 About the Protagonist
+# 🚀 About the Protagonist of 「青春との戦い」
 
 **Eddy Luo** (罗威迪 & 一ノ瀬 エイジ), an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), his research interests:
 
