@@ -40,7 +40,7 @@ redirect_from:
 * **AI in Security**: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.
 * **Lifelong AI Algorithms**: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.
 
-Before my PhD journey, he had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, he have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to his understanding of natural language processing and multimodalities.
+Before his PhD journey, he had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, he has served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to his understanding of natural language processing and multimodalities.
 
 His CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 Eddy welcomes collaboration opportunities. Please feel free to contact him at **Email: luo.1455[shift+2]uga[dot]edu**. どうぞよろしくお願いします!
