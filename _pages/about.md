@@ -38,6 +38,10 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start;">
 
+<div style="margin-right: 20px;">
+  <img src="images/eddy2.png" alt="Your Photo" style="width: 200px; border-radius: 10px;">
+</div>
+
 <div style="flex: 1;">
 <ul>
   <li><strong>Trustworthy AI & AI Safety</strong>: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.</li>
@@ -46,11 +50,8 @@ redirect_from:
 </ul>
 </div>
 
-<div style="margin-left: 20px;">
-  <img src="images/eddy2.png" alt="Your Photo" style="width: 200px; border-radius: 10px;">
 </div>
 
-</div>
 
 
 Before his PhD journey, he had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, he has served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to his understanding of natural language processing and multimodalities.
