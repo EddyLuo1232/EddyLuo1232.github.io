@@ -68,7 +68,7 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 <div style="display: flex; align-items: flex-start;">
 
 <div style="margin-left: 30px; margin-right: 20px; margin-top: 50px;">
-  <img src="images/alen.png" alt="Your Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 10px;">
+  <img src="images/alen.png" alt="Your Photo" style="width: 120px; height: 180px; object-fit: cover; border-radius: 10px;">
 </div>
 
 <div style="flex: 1;">
