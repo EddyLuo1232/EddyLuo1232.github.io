@@ -36,21 +36,22 @@ redirect_from:
 
 **Eddy Luo** (罗威迪 & 一ノ瀬 エイジ), an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), his research interests:
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
 
-<div style="margin-left: 20px; margin-right: 20px;">
-  <img src="images/eddy_anime.png" alt="Your Photo" style="height: 120px; border-radius: 10px;">
+  <div style="margin-left: 20px; margin-right: 20px;">
+    <img src="images/eddy_anime.png" alt="Your Photo" style="height: 120px; border-radius: 10px;">
+  </div>
+
+  <div style="flex: 1;">
+    <ul>
+      <li><strong>Trustworthy AI & AI Safety</strong>: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.</li>
+      <li><strong>AI in Security</strong>: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.</li>
+      <li><strong>Lifelong AI Algorithms</strong>: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.</li>
+    </ul>
+  </div>
+
 </div>
 
-<div style="flex: 1;">
-<ul>
-  <li><strong>Trustworthy AI & AI Safety</strong>: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.</li>
-  <li><strong>AI in Security</strong>: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.</li>
-  <li><strong>Lifelong AI Algorithms</strong>: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.</li>
-</ul>
-</div>
-
-</div>
 
 
 
