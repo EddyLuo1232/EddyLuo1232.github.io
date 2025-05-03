@@ -95,20 +95,21 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vrp.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Siyuan Ma\*, **Weidi Luo\***, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao, *Visual-RolePlay: Universal Jailbreak Attack on
 MultiModal Large Language Models via Role-playing Image Character*, [[Paper]](https://arxiv.org/abs/2405.20773) [[Code]](https://github.com/SiyuanMaCS/VisualRoleplay).
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
 
 
 </div>
