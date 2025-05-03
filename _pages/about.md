@@ -36,9 +36,22 @@ redirect_from:
 
 **Eddy Luo** (罗威迪 & 一ノ瀬 エイジ), an incoming PhD student at [University of Georgia](https://www.uga.edu/) advised by Prof.[Xiang Zhen](https://zhenxianglance.github.io/), his research interests:
 
-* **Trustworthy AI & AI Safety**: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.
-* **AI in Security**: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.
-* **Lifelong AI Algorithms**: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 1;">
+<ul>
+  <li><strong>Trustworthy AI & AI Safety</strong>: Using interpretability methods, discover security vulnerabilities in AI systems, including foundation models and AI agents, and develop corresponding defense and detection algorithms, including safety alignment strategies.</li>
+  <li><strong>AI in Security</strong>: Leverage AI to drive defense and attack strategies on systems, including web system and operating system.</li>
+  <li><strong>Lifelong AI Algorithms</strong>: Develop lifelong learning AI frameworks and defense systems by utilizing reinforcement learning, cognitive science, bio-inspired algorithms, active learning, and so on.</li>
+</ul>
+</div>
+
+<div style="margin-left: 20px;">
+  <img src="images/eddy2.png" alt="Your Photo" style="width: 200px; border-radius: 10px;">
+</div>
+
+</div>
+
 
 Before his PhD journey, he had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, he has served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to his understanding of natural language processing and multimodalities.
 
