@@ -44,7 +44,7 @@ Before my PhD journey, he had a research internship on AI safety at [Prof.Chaowe
 
 His CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
-Eddy welcome collaboration opportunities. Please feel free to contact him at **Email: luo.1455[shift+2]uga[dot]edu** or **Wechat ID: EddyCanBeRisingStar**. どうぞよろしくお願いします!
+Eddy welcome collaboration opportunities. Please feel free to contact him at **Email: luo.1455[shift+2]uga[dot]edu**. どうぞよろしくお願いします!
 
 
 
