@@ -64,7 +64,7 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 
 <span class='anchor' id='-xl'></span>
 
-# 📰 News
+# 📰 Eddy's News
 - *2025.04.15*🎉, Our work *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* wins **$20,000** SafeBench Prize for Advancing MultiModal Large Language Model Security Benchmarking from **Center for AI Safety**.
 - *2025.04.09*🎉, I will join the University of Georgia as a **PhD student** in August 2025.
 - *2025.01.22*🎉, Our paper *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models* has been accepted by **NAACL'2025**. I served as the **first author**. Thanks to my collaborators.
@@ -72,13 +72,13 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 - *2024.07.09*🎉, Our paper *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* has been accepted by **COLM'2024**. I served as the **first author**. Thanks to my collaborators.
 
 
-# 🎓 Education
+# 🎓 Eddy's Story
 - *2025.08 - Present*, P.hD. in Computer Science, School of Computing, University of Georgia
 - *2022.09 - 2025.06*, B.A. in Computer and Information Science, Art and Science College, The Ohio State University **(Dean's List of Art and Science College in 22 Fall and 24 SP)**
 <span class='anchor' id='-lwzl'></span>
 
 
-# 📝 Pre-print
+# 📝 Eddy's Pre-print
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -114,8 +114,17 @@ MultiModal Large Language Models via Role-playing Image Character*, [[Paper]](ht
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/autop.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📸 Publication
+Zeru Shi, Zhenting Wang, Yongye Su, **Weidi Luo**, Hang Gao, Fan Yang, Ruixiang Tang, Yongfeng Zhang, *Auto-Prompt Generation Is Not Robustness: Prompt Optimization Driven by Adversarial Training*, [[Paper]](https://arxiv.org/pdf/2412.18196) [[Code]](https://github.com/vanpe20/BATprompt).
+
+
+</div>
+</div>
+
+
+# 📸 Eddy's Publication
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'2025</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -142,20 +151,15 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 </div>
 </div>
 
-
-# 🏛️ Conference
-- *2024.10*, COLM'2024, Philadelphia, PA, United State
-- *2025.04*, NAACL'2025, Albuquerque, New Mexico, United States
-
-# 🎖 Award
+# 🎖 Eddy's Award
 - *2025.04*, SafeBench Award from Center for AI Safety
   
-# 🔍 Reviewer
+# 🔍 Eddy's Reviewer Experience
 - *2025.02*, ACL'2025
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 Internship
+# 💻 Eddy's Internship Experience
 - *2023.12 - Present*,  SaFoLab, Madison, Wisconsin, United States
 - *2024.07 - 2024.10*,  International Digital Economy Academy(IDEA), Shenzhen, Guangdong, China
 - *2022.08 - 2023.12*, ICICLE Institute｜OSU NLP Group, Columbus, Ohio, United States
