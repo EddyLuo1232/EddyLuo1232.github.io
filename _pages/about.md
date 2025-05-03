@@ -65,11 +65,23 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 <span class='anchor' id='-xl'></span>
 
 # 📰 News
-- *2025.04.15*🎉, Our work *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* wins **$20,000** SafeBench Prize for Advancing MultiModal Large Language Model Security Benchmarking from **Center for AI Safety**.
-- *2025.04.09*🎉, I will join the University of Georgia as a **PhD student** in August 2025.
-- *2025.01.22*🎉, Our paper *Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models* has been accepted by **NAACL'2025**. I served as the **first author**. Thanks to my collaborators.
-- *2024.07.16*🎉, Our paper *Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs* has been accepted by **CIKM'2024**. Thanks to my collaborators.
-- *2024.07.09*🎉, Our paper *JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks* has been accepted by **COLM'2024**. I served as the **first author**. Thanks to my collaborators.
+<div style="display: flex; align-items: flex-start;">
+
+<div style="margin-left: 20px; margin-right: 20px;">
+  <img src="alen.png" alt="Your Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 10px;">
+</div>
+
+<div style="flex: 1;">
+<ul>
+  <li><em>2025.04.15</em> 🎉 Our work <em>JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks</em> wins <strong>$20,000</strong> SafeBench Prize for Advancing MultiModal Large Language Model Security Benchmarking from <strong>Center for AI Safety</strong>.</li>
+  <li><em>2025.04.09</em> 🎉 I will join the University of Georgia as a <strong>PhD student</strong> in August 2025.</li>
+  <li><em>2025.01.22</em> 🎉 Our paper <em>Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models</em> has been accepted by <strong>NAACL'2025</strong>. I served as the <strong>first author</strong>. Thanks to my collaborators.</li>
+  <li><em>2024.07.16</em> 🎉 Our paper <em>Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs</em> has been accepted by <strong>CIKM'2024</strong>. Thanks to my collaborators.</li>
+  <li><em>2024.07.09</em> 🎉 Our paper <em>JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks</em> has been accepted by <strong>COLM'2024</strong>. I served as the <strong>first author</strong>. Thanks to my collaborators.</li>
+</ul>
+</div>
+
+</div>
 
 
 # 🎓 Education
