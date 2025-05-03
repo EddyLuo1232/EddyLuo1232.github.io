@@ -39,7 +39,7 @@ redirect_from:
 <div style="display: flex; align-items: center;">
 
   <div style="margin-left: 20px; margin-right: 20px;">
-    <img src="images/eddy_anime.png" alt="Your Photo" style="height: 200px; border-radius: 10px;">
+    <img src="images/eddy_anime.png" alt="Your Photo" style="height: 150px; border-radius: 10px;">
   </div>
 
   <div style="flex: 1;">
