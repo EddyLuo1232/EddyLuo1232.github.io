@@ -67,7 +67,7 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 # 📰 News
 <div style="display: flex; align-items: flex-start;">
 
-<div style="margin-left: 20px; margin-right: 20px;">
+<div style="margin-left: 30px; margin-right: 20px; margin-top: 50px;">
   <img src="images/alen.png" alt="Your Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 10px;">
 </div>
 
