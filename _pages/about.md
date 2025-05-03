@@ -42,8 +42,7 @@ redirect_from:
 
 Before my PhD journey, he had a research internship on AI safety at [Prof.Chaowei Xiao](https://xiaocw11.github.io/)'s Lab at [University of Wisconsin-Madison](https://www.wisc.edu/). In pursuit of academic excellence, he have served as a research assistant at [OSU NLP Group](https://twitter.com/osunlp) and [ICICLE Institute](https://icicle.osu.edu/) under the mentorship of [Prof.Yu Su](https://ysu1989.github.io/). This valuable experience has significantly contributed to his understanding of natural language processing and multimodalities.
 
-His CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf) <a href='https://scholar.google.com/citations?user=EZzmjVUAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
-
+His CV is here: [Eddy's Curriculum Vitae](../assets/CV_Eddy.pdf).
 Eddy welcomes collaboration opportunities. Please feel free to contact him at **Email: luo.1455[shift+2]uga[dot]edu**. どうぞよろしくお願いします!
 
 
