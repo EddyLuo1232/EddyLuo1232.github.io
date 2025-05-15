@@ -157,7 +157,7 @@ Vardaan Pahuja, **Weidi Luo**, Yu Gu, Cheng-Hao Tu, Hong-You Chen, Tanya Berger-
 - *2025.04*, SafeBench Award from Center for AI Safety
   
 # 🔍 Eddy's Reviewer Experience
-- *2025.02*, ACL'2025
+- ACL'2025, EMNLP'2025
 
 <span class='anchor' id='-gzsx'></span>
 
