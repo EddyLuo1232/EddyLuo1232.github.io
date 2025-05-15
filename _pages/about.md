@@ -79,14 +79,6 @@ Eddy welcomes collaboration opportunities. Please feel free to contact him at **
 
 
 # 📝 Eddy's Pre-print
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao, *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[Paper]](https://arxiv.org/abs/2502.11448) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[Code]](https://github.com/EddyLuo1232/AGrail4Agent)
-
-
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/doxing_via_the_lens.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,15 +98,6 @@ MultiModal Large Language Models via Role-playing Image Character*, [[Paper]](ht
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/autop.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -126,6 +109,15 @@ Zeru Shi, Zhenting Wang, Yongye Su, **Weidi Luo**, Hang Gao, Fan Yang, Ruixiang 
 
 
 # 📸 Eddy's Publication
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2025</div><img src='images/agrail.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Weidi Luo**, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao, *AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection*, [[Paper]](https://arxiv.org/abs/2502.11448) [[Project Page]](https://eddyluo1232.github.io/AGrail/) [[Code]](https://github.com/EddyLuo1232/AGrail4Agent)
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'2025</div><img src='images/teaser.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -143,6 +135,14 @@ Zeru Shi, Zhenting Wang, Yongye Su, **Weidi Luo**, Hang Gao, Fan Yang, Ruixiang 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2025</div><img src='images/overview.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mingyu Jin, **Weidi Luo**, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang, *Disentangling Memory and Reasoning Ability in Large Language Models*, [[Paper]](https://arxiv.org/abs/2411.13504) [[Code]](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2024</div><img src='images/cosmo.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
